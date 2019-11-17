@@ -7,3 +7,5 @@
 Метод remainIfAmountMore0BackExtraSum() - тест на возвращение сумму докупки при ненулевой стоимости
 
 Метод remainIfAmountMore0DoNotBackExtraSum() - тест не возвращение суммы докупки, если стоимость ненулевая и кратна boundary
+
++ Добавлены Parametrized Tests
